@@ -11,6 +11,20 @@ We were tasked with predicting credit card risk through the use of machine learn
 <img width="885" alt="SMOTE" src="https://user-images.githubusercontent.com/103657822/187226122-22a35191-5459-4c75-ac74-b5dd64dba5fe.png">
 <ul><li> The balanced accuracy score of the SMOTE algorithm was 66.27%. For the high-risk category, there was a precision score of 1% and a recall score of 63%. For the low-risk category, there was a precision score of 100% and a recall score of 69%. </li></ul>
 
-#### ClusterCentroids Algorith Resuls
+#### ClusterCentroids Algorithm Results
 <img width="908" alt="ClusterCentroids" src="https://user-images.githubusercontent.com/103657822/187226751-487d78fc-e1c5-4835-887b-c42bbd80558f.png">
-<ul><li></li></ul>
+<ul><li> The balanced accuracy score of the ClusterCentroids algorithm was 54.39%. For the high-risk category, there was a precision score of 1% and a recall score of 69%. For the low-risk category, there was a precision score of 100% and a recall score of 39%. </li></ul>
+
+#### SMOTEENN Algorithm Results
+<img width="906" alt="SMOTEENN" src="https://user-images.githubusercontent.com/103657822/187232462-7d0a5078-1556-4b42-b2d2-17e5248dee35.png">
+<ul><li> The balanced accuracy score of the SMOTEENN algorithm was 64.47%. For the high-risk category, there was a precision score of 1% and a recall score of 72%. For the low-risk category, there was a precision score of 100% and a recall score of 57%. </li></ul>
+
+#### BalancedRandomForestClassifier Algorithm Results
+<img width="901" alt="RandomForestClassifier" src="https://user-images.githubusercontent.com/103657822/187232848-a2a504da-9d1d-4d31-bef9-690a70a49c5f.png">
+<ul><li> The balanced accuracy score of the BalancedRandomForestClassifier algorithm was 68.30%. For the high-risk category, there was a precision score of 88% and a recall score of 37%. For the low-risk category, there was a precision score of 100% and a recall score of 100%. </li></ul>
+
+#### EasyEnsembleClassifier Algorithm Results
+<img width="907" alt="EasyEnsembleClassifier" src="https://user-images.githubusercontent.com/103657822/187233346-5d93fd43-89dc-4eeb-961c-266681111e53.png">
+<ul><li> The balanced accuracy score of the EasyEnsembleClassifier algorithm was 93.17%. For the high-risk category, there was a precision score of 9% and a recall score of 92%. For the low-risk category, there was a precision score of 100% and a recall score of 94%. </li></ul>
+
+## Summary
